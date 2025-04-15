@@ -64,7 +64,3 @@ Agbu, Enoch Amachundi
 
 ## 🏷️ Tags
 #CyberSecurity #HomeLab #BlueTeam #KaliLinux #UbuntuServer #VMware #SOCAnalyst #InfoSec #SIEM #HandsOnCybersecurity
-
-## VMware Installation Screenshots
-![shot1A](https://github.com/user-attachments/assets/a3022a6b-deb9-4379-b8ed-ad2a8f891e54)
-![shot1A](https://github.com/user-attachments/assets/2c106f44-9521-482c-92a1-fdd0939640db)
