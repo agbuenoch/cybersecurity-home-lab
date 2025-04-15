@@ -38,14 +38,6 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - ✅ Completed guided installation (no desktop environment)
 - ✅ Applied basic security hardening (user creation, firewall setup)
 
-## 📸 Screenshots
-| Description                      | Screenshot                          |
-|----------------------------------|-------------------------------------|
-| VMware VM Setup (Kali + Ubuntu) | `screenshots/vm-setup.png`          |
-| Ubuntu Server Boot              | `screenshots/ubuntu-boot.png`       |
-| Network Setup                   | `screenshots/netplan-config.png`    |
-| Ping Test                       | `screenshots/ping-google.png`       |
-
 ## 🔐 Post-Install Hardening (Ubuntu Server)
 - Disabled root SSH login
 - Created non-root sudo user
@@ -73,3 +65,6 @@ Agbu, Enoch Amachundi
 ## 🏷️ Tags
 #CyberSecurity #HomeLab #BlueTeam #KaliLinux #UbuntuServer #VMware #SOCAnalyst #InfoSec #SIEM #HandsOnCybersecurity
 
+## VMware Installation Screenshots
+![shot1A](https://github.com/user-attachments/assets/a3022a6b-deb9-4379-b8ed-ad2a8f891e54)
+![shot1A](https://github.com/user-attachments/assets/2c106f44-9521-482c-92a1-fdd0939640db)
