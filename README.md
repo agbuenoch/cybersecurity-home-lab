@@ -39,8 +39,6 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - ✅ Applied basic security hardening (user creation, firewall setup)
 
 ## 📸 Screenshots
-> (Replace image names with your actual screenshot file names)
-
 | Description                      | Screenshot                          |
 |----------------------------------|-------------------------------------|
 | VMware VM Setup (Kali + Ubuntu) | `screenshots/vm-setup.png`          |
