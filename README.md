@@ -1,5 +1,4 @@
 # cybersecurity-home-lab
-
 This project documents the step-by-step process of setting up a **cybersecurity home lab** using **VMware Workstation Pro**, with a detailed guide on downloading and installing Kali-Linux "pre-built image", Ubuntu server "installer image" and VMware Workstation Pro virtualization tool. With these tools, you can simulate attacks using the Kali Linux VM and perform log analysis and monitoring on the Ubuntu server.
 
 # Cybersecurity Home Lab: Kali Linux & Ubuntu Server on VMware Workstation Pro
@@ -10,7 +9,6 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 > This lab supports my learning journey into cyber defense, SOC operations, and blue team security analysis.
 
 ## Project Overview
-
 | Component          | Purpose                                                   |
 |--------------------|-----------------------------------------------------------|
 | VMware Workstation | Virtualization platform                                   |
@@ -19,7 +17,6 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 | Wazuh/Splunk/ELK   | (Coming soon) For real-time log analysis and threat detection |
 
 ## Tools & Technologies
-
 - VMware Workstation Pro
 - Kali Linux (OVA - Pre-Built Image)
 - Ubuntu Server 22.04 LTS (Installer ISO)
@@ -27,7 +24,7 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 
 ## Installation Steps
 
-### 1️Kali Linux (Pre-Built Image)
+### Kali Linux (Pre-Built Image)
 - Downloaded `.ova` file from [Kali Linux Official Site](https://www.kali.org/get-kali/#kali-virtual-machines)
 - Imported into VMware Workstation Pro
 - Verified network, updated system packages
@@ -46,7 +43,6 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - Installed essential tools (curl, net-tools, fail2ban, etc.)
 
 ## What's Next
-
 - Install and configure **Wazuh Manager**  
 - Connect AWS and host logs for centralized analysis  
 - Setup Splunk or ELK for SIEM capabilities  
@@ -61,7 +57,7 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 ## Author
 Agbu, Enoch Amachundi  
 [🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)
-[🔗 X](https://www.x.com/@agbuenoch)
+[🔗 X](https://www.x.com/agbuenoch)
 
-## 🏷️ Tags
+## Tags
 #CyberSecurity #HomeLab #BlueTeam #KaliLinux #UbuntuServer #VMware #SOCAnalyst #InfoSec #SIEM #HandsOnCybersecurity
