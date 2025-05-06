@@ -1,4 +1,7 @@
 # cybersecurity-home-lab
+
+**Check out the screenshot folders, to follow the sequential steps**
+
 This project documents the step-by-step process of setting up a **cybersecurity home lab** using **VMware Workstation Pro**, with a detailed guide on downloading and installing Kali-Linux "pre-built image", Ubuntu server "installer image" and VMware Workstation Pro virtualization tool. With these tools, you can simulate attacks using the Kali Linux VM and perform log analysis and monitoring on the Ubuntu server.
 
 # Cybersecurity Home Lab: Kali Linux & Ubuntu Server on VMware Workstation Pro
@@ -54,7 +57,7 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - Simulate attack and detection scenarios  
 - Practice log analysis and SIEM setup  
 
-## Linkedin Articles
+## LinkedIn Articles
 https://www.linkedin.com/pulse/installing-kali-linux-pre-built-image-vmware-workstation-enoch-agbu-qvuif
 https://www.linkedin.com/pulse/installing-ubuntu-server-installer-image-vmware-workstation-agbu-pjidc
 
