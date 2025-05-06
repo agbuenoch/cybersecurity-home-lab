@@ -57,13 +57,13 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - Simulate attack and detection scenarios  
 - Practice log analysis and SIEM setup  
 
-## LinkedIn Articles
-https://www.linkedin.com/pulse/installing-kali-linux-pre-built-image-vmware-workstation-enoch-agbu-qvuif
-https://www.linkedin.com/pulse/installing-ubuntu-server-installer-image-vmware-workstation-agbu-pjidc
+## LinkedIn Article.
+[Installing Kali Linux Pre-built Image on VMware Workstation Pro](https://www.linkedin.com/pulse/installing-kali-linux-pre-built-image-vmware-workstation-enoch-agbu-qvuif)
+[Installing Ubuntu-server Installer Image on VMware Workstation Pro](https://www.linkedin.com/pulse/installing-ubuntu-server-installer-image-vmware-workstation-agbu-pjidc)
 
 ## Author
 Agbu, Enoch Amachundi  
-[🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)
+[🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)<br>
 [🔗 X](https://www.x.com/agbuenoch)
 
 ## Tags
