@@ -1,9 +1,10 @@
-# cybersecurity-home-lab: Kali Linux & Ubuntu Server on VMware Workstation Pro.
+# cybersecurity-home-lab
 
 ## Check out the following screenshot folders to follow the sequential steps.
 - kali-linux-installation-screenshots
 - ubuntu-server-installation-screenshots
 
+## Kali Linux & Ubuntu Server on VMware Workstation Pro.
 This project documents the step-by-step process of setting up a **cybersecurity home lab** using **VMware Workstation Pro**, with a detailed guide on downloading and installing Kali-Linux "pre-built image", Ubuntu server "installer image" and VMware Workstation Pro virtualisation tool. With these tools, you can simulate attacks using the Kali Linux VM and perform log analysis and monitoring on the Ubuntu server.   
 
 > This lab supports my learning journey into cyber defence, SOC operations, and blue team security analysis.
@@ -11,15 +12,14 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 ## Project Overview
 | Component          | Purpose                                                                                               |
 |--------------------|-------------------------------------------------------------------------------------------------------|
-| VMware Workstation | Virtualization platform                                                                               |
-| Kali Linux         | Offensive security and pentesting, for penetration testing and vulnerability scanning                 |
+| VMware Workstation | Virtualization platform.                                                                              |
+| Kali Linux         | Offensive security and pentesting, for penetration testing and vulnerability scanning.                |
 | Ubuntu Server      | Server OS for SIEM and log analysis tools, as a base for detection tools like Wazuh, ELK, and Splunk. |
 
 ## Tools & Technologies
 - VMware Workstation Pro
 - Kali Linux (OVA - Pre-Built Image)
 - Ubuntu Server 22.04 LTS (Installer ISO)
-- CLI Tools (Netplan, `ping`, `ip`, `apt`, etc.)
 
 ## VMware and Kali Linux (Pre-Built Image) Installation Steps.
 - STEP 1: Log in to the [Broadcom support](https://support.broadcom.com/) website.
