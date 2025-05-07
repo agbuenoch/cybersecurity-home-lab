@@ -35,9 +35,9 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - Step 4: Enable [Ubuntu-Pro](https://ubuntu.com/pro)  
 
 ## LinkedIn Article.
-[Installing Kali Linux Pre-built Image on VMware Workstation Pro](https://www.linkedin.com/pulse/installing-kali-linux-pre-built-image-vmware-workstation-enoch-agbu-qvuif)<br>
-[Installing Ubuntu-server Installer Image on VMware Workstation Pro](https://www.linkedin.com/pulse/installing-ubuntu-server-installer-image-vmware-workstation-agbu-pjidc)
+- [Installing Kali Linux Pre-built Image on VMware Workstation Pro](https://www.linkedin.com/pulse/installing-kali-linux-pre-built-image-vmware-workstation-enoch-agbu-qvuif)<br>
+- [Installing Ubuntu-server Installer Image on VMware Workstation Pro](https://www.linkedin.com/pulse/installing-ubuntu-server-installer-image-vmware-workstation-agbu-pjidc)
 
 ## Connect with me.
-[🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)<br>
-[🔗 X](https://www.x.com/agbuenoch)
+- [🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)<br>
+- [🔗 X](https://www.x.com/agbuenoch)
