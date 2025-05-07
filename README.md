@@ -29,7 +29,7 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - Step 5: Open the Kali Linux (pre-built image) in VMware Workstation Pro.
 - 
 ## Ubuntu Server (Installer Image) Installation Steps.
-- Step 1: Download Ubuntu Server [Installer Image](https://ubuntu.com/download/server) (.iso file).
+- Step 1: Download Ubuntu Server [Installer Image](https://ubuntu.com/download/server) (.iso).
 - Step 2: Open VMware Workstation Pro and Create a New Ubuntu VM.
 - Step 3: Start the Ubuntu Server created in VMware Workstation Pro.
 - Step 4: Enable [Ubuntu-Pro](https://ubuntu.com/pro)  
