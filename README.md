@@ -1,6 +1,8 @@
 # cybersecurity-home-lab
 
-**Check out the screenshot folders, to follow the sequential steps**
+**Check out the following screenshot folders to follow the sequential steps.**
+- kali-linux-installation-screenshots
+- ubuntu-server-installation-screenshots
 
 This project documents the step-by-step process of setting up a **cybersecurity home lab** using **VMware Workstation Pro**, with a detailed guide on downloading and installing Kali-Linux "pre-built image", Ubuntu server "installer image" and VMware Workstation Pro virtualization tool. With these tools, you can simulate attacks using the Kali Linux VM and perform log analysis and monitoring on the Ubuntu server.
 
@@ -9,7 +11,7 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - **Kali Linux (Pre-Built Image)** – for penetration testing and vulnerability scanning  
 - **Ubuntu Server (Installer Image)** – as a base for detection tools like Wazuh, ELK, and Splunk  
 
-> This lab supports my learning journey into cyber defense, SOC operations, and blue team security analysis.
+> This lab supports my learning journey into cyber defence, SOC operations, and blue team security analysis.
 
 ## Project Overview
 | Component          | Purpose                                                   |
@@ -17,7 +19,6 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 | VMware Workstation | Virtualization platform                                   |
 | Kali Linux         | Offensive security and pentesting                         |
 | Ubuntu Server      | Server OS for SIEM and log analysis tools                 |
-| Wazuh/Splunk/ELK   | (Coming soon) For real-time log analysis and threat detection |
 
 ## Tools & Technologies
 - VMware Workstation Pro
@@ -25,37 +26,18 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - Ubuntu Server 22.04 LTS (Installer ISO)
 - CLI Tools (Netplan, `ping`, `ip`, `apt`, etc.)
 
-## Installation Steps
-
-### Kali Linux (Pre-Built Image)
-- Downloaded `.ova` file from [Kali Linux Official Site](https://www.kali.org/get-kali/#kali-virtual-machines)
-- Imported into VMware Workstation Pro
-- Verified network, updated system packages
-
-### Ubuntu Server (Installer Image)
-- Downloaded ISO from [Ubuntu Server Official Site](https://ubuntu.com/download/server)
-- Created new VM in VMware with the ISO mounted
-- Completed guided installation (no desktop environment)
-- Applied basic security hardening (user creation, firewall setup)
-
-## Post-Install Hardening (Ubuntu Server)
-- Disabled root SSH login
-- Created non-root sudo user
-- Enabled UFW firewall
-- Configured automatic security updates
-- Installed essential tools (curl, net-tools, fail2ban, etc.)
-
-## What's Next
-- Install and configure **Wazuh Manager**  
-- Connect AWS and host logs for centralized analysis  
-- Setup Splunk or ELK for SIEM capabilities  
-- Run web app attack simulations using DVWA & OWASP Juice Shop  
-
-## Learning Goals
-- Build and operate a self-hosted, isolated cybersecurity lab  
-- Learn how to install and secure Linux servers  
-- Simulate attack and detection scenarios  
-- Practice log analysis and SIEM setup  
+## VMware and Kali Linux (Pre-Built Image) Installation Steps.
+- STEP 1: Log in to the [Broadcom support](https://support.broadcom.com/) website.
+- STEP 2: Download VMware Workstation.
+- Step 3: Install the VMware Workstation.
+- Step 4: Download the [Kali Linux](https://www.kali.org/get-kali/#kali-platforms)(.ova file) “pre-built image”.
+- Step 5: Open the Kali Linux (pre-built image) in VMware Workstation Pro.
+- 
+## Ubuntu Server (Installer Image) Installation Steps.
+- Step 1: Download Ubuntu Server [Installer Image](https://ubuntu.com/download/server)(.iso file).
+- Step 2: Open VMware Workstation Pro and Create a New Ubuntu VM.
+- Step 3: Start the Ubuntu Server created in VMware Workstation Pro.
+- Step 4: Enable [Ubuntu-Pro](https://ubuntu.com/pro)  
 
 ## LinkedIn Article.
 [Installing Kali Linux Pre-built Image on VMware Workstation Pro](https://www.linkedin.com/pulse/installing-kali-linux-pre-built-image-vmware-workstation-enoch-agbu-qvuif)<br>
