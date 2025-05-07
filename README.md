@@ -39,5 +39,5 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 - [Installing Ubuntu-server Installer Image on VMware Workstation Pro](https://www.linkedin.com/pulse/installing-ubuntu-server-installer-image-vmware-workstation-agbu-pjidc)
 
 ## Connect with me.
-- [🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)<br>
-- [🔗 X](https://www.x.com/agbuenoch)
+[🔗 LinkedIn](https://www.linkedin.com/in/agbuenoch)<br>
+[🔗 X](https://www.x.com/agbuenoch)
