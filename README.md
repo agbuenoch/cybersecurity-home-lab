@@ -1,15 +1,10 @@
-# cybersecurity-home-lab
+# cybersecurity-home-lab: Kali Linux & Ubuntu Server on VMware Workstation Pro.
 
-**Check out the following screenshot folders to follow the sequential steps.**
+## Check out the following screenshot folders to follow the sequential steps.
 - kali-linux-installation-screenshots
 - ubuntu-server-installation-screenshots
 
-This project documents the step-by-step process of setting up a **cybersecurity home lab** using **VMware Workstation Pro**, with a detailed guide on downloading and installing Kali-Linux "pre-built image", Ubuntu server "installer image" and VMware Workstation Pro virtualization tool. With these tools, you can simulate attacks using the Kali Linux VM and perform log analysis and monitoring on the Ubuntu server.
-
-# Cybersecurity Home Lab: Kali Linux & Ubuntu Server on VMware Workstation Pro
-
-- **Kali Linux (Pre-Built Image)** – for penetration testing and vulnerability scanning  
-- **Ubuntu Server (Installer Image)** – as a base for detection tools like Wazuh, ELK, and Splunk  
+This project documents the step-by-step process of setting up a **cybersecurity home lab** using **VMware Workstation Pro**, with a detailed guide on downloading and installing Kali-Linux "pre-built image", Ubuntu server "installer image" and VMware Workstation Pro virtualization tool. With these tools, you can simulate attacks using the Kali Linux VM and perform log analysis and monitoring on the Ubuntu server.   
 
 > This lab supports my learning journey into cyber defence, SOC operations, and blue team security analysis.
 
@@ -17,8 +12,8 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 | Component          | Purpose                                                   |
 |--------------------|-----------------------------------------------------------|
 | VMware Workstation | Virtualization platform                                   |
-| Kali Linux         | Offensive security and pentesting                         |
-| Ubuntu Server      | Server OS for SIEM and log analysis tools                 |
+| Kali Linux         | Offensive security and pentesting, for penetration testing and vulnerability scanning                         |
+| Ubuntu Server      | Server OS for SIEM and log analysis tools, as a base for detection tools like Wazuh, ELK, and Splunk                 |
 
 ## Tools & Technologies
 - VMware Workstation Pro
