@@ -44,7 +44,7 @@ Search by typing **VMware Workstation** inside the search bar as pointed to by t
 Two operating systems versions of the VMware Workstation Pro are displayed, pointed to by the two arrows; choose the one that corresponds to your operating system. We are selecting the Windows OS version.<br>
 **View: [step2D](kali-linux-installation-screenshots/step2D.png)**
 
-Click on the "caret" pointed to by the 1st arrow to expand the Windows OS “VMware Workstation Pro” version. Click on the latest version as pointed to by the 2nd arrow.
+Click on the "caret" pointed to by the 1st arrow to expand the Windows OS “VMware Workstation Pro” version. Click on the latest version as pointed to by the 2nd arrow.<br>
 **View: [step2E](kali-linux-installation-screenshots/step2E.png)**
 
 Click on the download button to start downloading **VMware Workstation Pro**.<br>
