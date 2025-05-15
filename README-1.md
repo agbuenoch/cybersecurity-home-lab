@@ -83,31 +83,31 @@ Because we are using the VMware virtualization platform, click on the VMware dow
 
 Step 5: Open the Kali Linux (pre-built image) in VMware Workstation Pro.
 Double-click on the “VMware Workstation Pro” shortcut to open it. Remember the Kali Linux “pre-built image” is an existing Virtual Machine, on this premise,  click on the “Open a virtual machine” and locate the extracted file unzipped above.
-**View: [shot5A](kali-linux-installation-screenshots/shot5A.png)**
+**View: [step5A](kali-linux-installation-screenshots/step5A.png)**
 
 Locate the extracted file, double click on it to automatically open it, or select it and click on open to open it on “VMware Workstation Pro”.
-**View: [shot5B](kali-linux-installation-screenshots/shot5B.png)**
+**View: [step5B](kali-linux-installation-screenshots/step5B.png)**
 
 After opening the Kali-Linux Pre-built Image, you will be presented with the interface shown below. The 1st arrow points to the virtual machine name, the 2nd arrow points to the machine state, which is currently “powered off”. The two 3rd arrows point to the start button, you can click on the ‘caret’ symbol right beside the green button to view and use other options like “shutdown, suspend, or restart” the VM. The VM settings can be edited and also upgraded as pointed to by the 4th arrow. The 5th arrow points to the device information regarding Memory and processors allocated, among others, which are all subject to change using the "Edit virtual machine settings" pointed to by the 4th arrow. The 6th arrow points to all open tabs, where we have the “Home” and “kali-linux-2025.1a-vmware-amd64” tabs.
-**View: [shot5C](kali-linux-installation-screenshots/shot5C.png)**
+**View: [step5C](kali-linux-installation-screenshots/step5C.png)**
 
 Click on the Start button as shown above, and enter the default username and password of “kali” to log in to the Kali Linux VM.
-**View: [shot5D](kali-linux-installation-screenshots/shot5D.png)**
+**View: [step5D](kali-linux-installation-screenshots/step5D.png)**
 
 Voila,  we have successfully logged in to the Kali Linux VM.
-**View: [shot5E](kali-linux-installation-screenshots/shot5E.png)**
+**View: [step5E](kali-linux-installation-screenshots/step5E.png)**
 
 We have successfully downloaded and installed both Kali Linux pre-built images and VMware Workstation Pro, and opened Kali Linux VM on VMware Workstation.
 
-NOTE:
+**NOTE**:
 Alternatively to the Kali Linux “pre-built image”, you can choose to download and use the Kali Linux “Installer Images” instead, as shown below. The Kali Linux “Installer Images” enable you to create the Kali Linux VM from scratch, where you are responsible for specifying all the system configurations and settings, such as RAM allocation and storage location, among others.
-**View: [shot6A](kali-linux-installation-screenshots/shot6A.png)**
+**View: [step6A](kali-linux-installation-screenshots/step6A.png)**
 
 Click on “Recommended,” and you will be directed to the download page shown below. Select your system processor architecture, where "x86_64" refers to the traditional 64-bit processor architecture commonly found in most PCs, while "Apple Silicon (ARM64)" is Apple's proprietary 64-bit processor architecture used in newer Mac computers.
-**View: [shot6B](kali-linux-installation-screenshots/shot6B.png)**
+**View: [step6B](kali-linux-installation-screenshots/step6B.png)**
 
 The Installer Image is an “.iso” file, used to create virtual machines. After the download, open the VMware workstation, click on “Create a New Virtual Machine” and locate where the “.iso” file is downloaded and select it. Follow the on-screen prompts to proceed with the rest of the installations and settings. The default selections during the installation, in most cases, should work fine.
-**View: [shot6C](kali-linux-installation-screenshots/shot6C.png)**
+**View: [step6C](kali-linux-installation-screenshots/step6.png)**
 
 
 
