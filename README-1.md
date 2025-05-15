@@ -1,4 +1,8 @@
 # cybersecurity-home-lab
+
+### Installing Kali Linux "Pre-Built Image" and VMware Workstation Pro.
+
+**Check out the [screenshots](screenshots) folder for all the screenshots.**
  
 **Check out the following screenshot folders to follow the sequential steps.**
 - kali-linux-installation-screenshots
