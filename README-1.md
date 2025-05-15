@@ -6,10 +6,10 @@ Check out the **[kali-linux-installation-screenshots](kali-linux-installation-sc
 This project documents the step-by-step process of setting up a **cybersecurity home lab** using **VMware Workstation Pro**, with a detailed guide on downloading and installing Kali-Linux "pre-built image", Ubuntu server "installer image" and VMware Workstation Pro virtualisation tool. With these tools, you can simulate attacks using the Kali Linux VM and perform log analysis and monitoring on the Ubuntu server.   
 
 ## Project Overview
-| Component                          | Purpose                                                                                   |
-|------------------------            |-------------------------------------------------------------------------------------------|
-| VMware Workstation Pro             | Virtualization platform.                                                                  |
-| Kali Linux (`OVA` - Pre-Built Image) | Offensive security and pentesting, for penetration testing and vulnerability scanning.    |
+| Component                                 | Purpose                                                                                |
+|------------------------                   |----------------------------------------------------------------------------------------|
+| VMware Workstation Pro                    | Virtualization platform.                                                               |
+| Kali Linux (`OVA` file - Pre-Built Image) | Offensive security and pentesting, for penetration testing and vulnerability scanning. |
 
 **Virtualisation** is the process of creating a virtual version of computing environments, such as operating systems, servers, and networks, on a single physical machine. It enables users to run multiple systems simultaneously, making it an essential tool for testing, development, and cybersecurity labs.
 
