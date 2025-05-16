@@ -40,7 +40,7 @@ If you subsequently want to view your Token, visit ubuntu.com and click on "**Si
 **View: [step1G2](ubuntu-server-installation-screenshots/step1G2)<br>**
 **View: [step1H](ubuntu-server-installation-screenshots/step1H)**
 
-You will be redirected to the page below. Provide your login details and click on “**Log in**”.
+You will be redirected to the page below. Provide your login details and click on “**Log in**”.<br>
 **View: [step1H1](ubuntu-server-installation-screenshots/step1H1)**
 
 Click the "**Yes, log me in**"<br>
@@ -105,7 +105,7 @@ In the "**Network configuration**", scroll downward and press Enter while on "**
 **View: [step3I](ubuntu-server-installation-screenshots/step3I)<br>**
 **View: [step3J](ubuntu-server-installation-screenshots/step3J)<br>**
 
-Skip the proxy configuration, scroll down, and press Enter while on the “**Done**” button.
+Skip the proxy configuration, scroll down, and press Enter while on the “**Done**” button.<br>
 **View: [step3K](ubuntu-server-installation-screenshots/step3K)<br>**
 **View: [step3K2](ubuntu-server-installation-screenshots/step3K2)**
 
