@@ -161,7 +161,7 @@ Voila! We have successfully logged in to the Ubuntu server and received a welcom
 Copy the token assigned to you when registering for “**Ubuntu Pro**” as demonstrated above, and run the command shown below. You will be required to provide a password for the user who is currently logged in to this server, this is to ensure the command is run by an authorized user.<br>
 **View: [step4A](ubuntu-server-installation-screenshots/step4A)**
 
-As pointed out by the arrow below, our `Extended Security Maintenance - ESM` is now enabled, which implies that the “**Ubuntu Pro**” is now enabled and attached to our Ubuntu server.
+As pointed out by the arrow below, our `Extended Security Maintenance - ESM` is now enabled, which implies that the “**Ubuntu Pro**” is now enabled and attached to our Ubuntu server.<br>
 **View: [step4B](ubuntu-server-installation-screenshots/step4B)**
 
 ## LinkedIn Article.
