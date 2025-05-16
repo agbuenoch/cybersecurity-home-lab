@@ -83,39 +83,40 @@ From the screenshot above, start the Ubuntu server by clicking on the green play
 Use the mouse to scroll up and down the VM interface, using the `scroll bar`. 
 At this stage, you will start navigating between your native machine/host and the Ubuntu server VM. On your native machine keyboard, press “Ctrl G” or move the mouse cursor directly inside the VM and click inside it, to move/direct your keyboard input into the VM, this will enable you to interact with the VM directly using the keyboard which is very important especially at this installation process of starting the Ubuntu Server for the first time. While the keyboard focus is on the VM, press `Ctrl Alt` or move the mouse to click anywhere outside the VM, to move/direct the keyboard input out of the VM to the native machine.
 Always scroll downward to accept the setting you have checked or selected. I used arrows to point to the scroll bar at the extreme right side of the window.
-**View: [step3A](ubuntu-server-installation-screenshots/step3A)<br>**
 
-Press `Ctrl G` to direct keyboard input to the VM, and press "**Enter**" on your keyboard to activate the highlighted choice as pointed to by the 1st arrow. Do this for all other ones.
+**View: [step3A](ubuntu-server-installation-screenshots/step3A)**
+
+Press `Ctrl G` to direct keyboard input to the VM, and press "**Enter**" on your keyboard to activate the highlighted choice as pointed to by the 1st arrow. Do this for all other ones.<br>
 **View: [step3B](ubuntu-server-installation-screenshots/step3B)<br>**
 **View: [step3C](ubuntu-server-installation-screenshots/step3C)**
 
-If you want to change your keyboard layout from the default one detected “**[English US]**” you can move the mouse to “Identify Keyboard” and press Enter on your keyboard, as pointed to by the 2nd arrow, otherwise just scrow down and press Enter when the mouse is on “**Done**”.
+If you want to change your keyboard layout from the default one detected “**[English US]**” you can move the mouse to “Identify Keyboard” and press Enter on your keyboard, as pointed to by the 2nd arrow, otherwise just scrow down and press Enter when the mouse is on “**Done**”.<br>
 **View: [step3D](ubuntu-server-installation-screenshots/step3D)**
 
-Suppose you chose to “**Identify Keyboard**”. In that case, you will be asked a couple of questions, which I sample just two screenshots below, answer them accordingly, and your keyboard layout will be automatically detected.
+Suppose you chose to “**Identify Keyboard**”. In that case, you will be asked a couple of questions, which I sample just two screenshots below, answer them accordingly, and your keyboard layout will be automatically detected.<br>
 **View: [step3E](ubuntu-server-installation-screenshots/step3E)<br>**
 **View: [step3F](ubuntu-server-installation-screenshots/step3F)<br>**
 **View: [step3G](ubuntu-server-installation-screenshots/step3G)**
 
-After the keyboard layout settings, the next steps follows. Move the mouse to activate/select the "**Ubuntu Server**" as pointed to by the 3rd arrow. The `X` inside the parentheses means it has been selected or activated, scroll downward as pointed to by the 2nd arrow, direct the mouse input back to the VM, ensure the mouse is active on “**Done**”, and press Enter.
+After the keyboard layout settings, the next steps follows. Move the mouse to activate/select the "**Ubuntu Server**" as pointed to by the 3rd arrow. The `X` inside the parentheses means it has been selected or activated, scroll downward as pointed to by the 2nd arrow, direct the mouse input back to the VM, ensure the mouse is active on “**Done**”, and press Enter.<br>
 **View: [step3H](ubuntu-server-installation-screenshots/step3H)**
 
-In the "Network configuration", scroll downward and press Enter while on "TBD"<br>
+In the "**Network configuration**", scroll downward and press Enter while on "**TBD**"<br>
 **View: [step3I](ubuntu-server-installation-screenshots/step3I)<br>**
 **View: [step3J](ubuntu-server-installation-screenshots/step3J)<br>**
 
-Skip the proxy configuration, scroll down, and press Enter while on the “Done” button.
+Skip the proxy configuration, scroll down, and press Enter while on the “**Done**” button.
 **View: [step3K](ubuntu-server-installation-screenshots/step3K)<br>**
 **View: [step3K2](ubuntu-server-installation-screenshots/step3K2)**
 
 Scroll downward and press Enter.<br>
 **View: [step3L](ubuntu-server-installation-screenshots/step3L)**
 
-Select “Use an entire disk” as pointed to by the 2nd arrow. The “x” means it is selected.<br>
+Select “**Use an entire disk**” as pointed to by the 2nd arrow. The `X` means it is selected.<br>
 **View: [step3M](ubuntu-server-installation-screenshots/step3M)<br>**
 **View: [step3M2](ubuntu-server-installation-screenshots/step3M2)**
 
-You will be presented with the storage configuration summary, scroll down and press Enter when you are active on the “Done” button.<br>
+You will be presented with the storage configuration summary, scroll down and press Enter when you are active on the “**Done**” button.<br>
 **View: [step3N](ubuntu-server-installation-screenshots/step3N)<br>**
 **View: [step3N2](ubuntu-server-installation-screenshots/step3N2)<br>**
 **View: [step3O](ubuntu-server-installation-screenshots/step3O)**
@@ -134,7 +135,7 @@ Select the “**Install OpenSSH server**” as pointed to by the arrow below. En
 
 The installation process will begin; this will take a considerable number of hours, depending on your native machine specifications. The higher RAM and processor cores you have, the faster the installation process.
 
-When you are running out of battery or internet connectivity at any stage of the installation especially this stage, I recommend you do not shut down your system or “power off” the VM or exit the VMware Workstation Pro, you should put your system on “sleep” mode and wake it up later when you have internet connections or charged your battery, to continue the installation process. Just remember, this process can take a while.<br>
+When you are running out of battery or internet connectivity at any stage of the installation especially this stage, I recommend you do not shut down your system or “**power off**” the VM or exit the VMware Workstation Pro, you should put your system on “**sleep**” mode and wake it up later when you have internet connections or charged your battery, to continue the installation process. Just remember, this process can take a while.<br>
 **View: [step3T](ubuntu-server-installation-screenshots/step3T)<br>**
 **View: [step3T2](ubuntu-server-installation-screenshots/step3T2)<br>**
 **View: [step3U](ubuntu-server-installation-screenshots/step3U)**
