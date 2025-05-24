@@ -7,7 +7,7 @@ This project documents the step-by-step process of setting up a **cybersecurity 
 
 ## Project Overview
 | Component                                 | Purpose                                                                                |
-|------------------------                   |----------------------------------------------------------------------------------------|
+|-------------------------------------------|----------------------------------------------------------------------------------------|
 | VMware Workstation Pro                    | Virtualization platform.                                                               |
 | Kali Linux (`OVA` file - Pre-Built Image) | Offensive security and pentesting, for penetration testing and vulnerability scanning. |
 
