@@ -1,7 +1,7 @@
 # cybersecurity-home-lab
 
 ## Installing Ubuntu Server "Installer Image" On VMware Workstation Pro.
-This project documents the step-by-step process of downloading and installing the Ubuntu server "installer image" on VMware Workstation Pro virtualisation tool, used to perform log analysis and monitoring.<br>
+This project documents the step-by-step process of downloading and installing the `Ubuntu Server Installer Image` on `VMware Workstation Pro` virtualisation tool, to perform log analysis and monitoring.<br>
 Check out the **[ubuntu-server-installation-screenshots](ubuntu-server-installation-screenshots)** folder for all the screenshots.
  
 ## Project Overview
