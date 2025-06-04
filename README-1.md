@@ -26,7 +26,7 @@ Assuming you are registering for the first time, fill in your information as sho
 **View: [step1B](kali-linux-installation-screenshots/step1B.png)**
 
 After signing up successfully, log in to the portal.<br>
-**View: [shot1C](kali-linux-installation-screenshots/shot1C.png)**
+**View: [step1C](kali-linux-installation-screenshots/step1C.png)**
 
 ## STEP 2: Download VMware Workstation.
 After logging in, you will be directed to the home page shown below:
